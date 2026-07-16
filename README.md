@@ -10,8 +10,8 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 ## 📚 Categories
 
 ### 1. Arrays & Hashing
-| # | Problem | Solution |  | Difficulty |
-|---|---------|----------|--|------------|
+| # | Problem | Solution | Difficulty |
+|---|---------|----------|------------|
 | 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Data%20Structures%20%26%20Algorithms/duplicate-integer/submission-0.py) | Easy |
 | 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./Data%20Structures%20%26%20Algorithms/is-anagram/submission-0.py) | Easy |
 | 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./Data%20Structures%20%26%20Algorithms/two-integer-sum/submission-0.py) | Easy |
@@ -23,13 +23,13 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 | 9 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](./Data%20Structures%20%26%20Algorithms/longest-consecutive-sequence/submission-0.py) | Medium |
 
 ### 2. Two Pointers
-| # | Problem | Solution | Difficulty |
-|---|---------|----------|------------|
-| 10 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./Data%20Structures%20%26%20Algorithms/is-palindrome/submission-0.py) | Easy |
-| 11 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](././Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/submission-0.py) | Medium |
-| 12 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./Data%20Structures%20%26%20Algorithms/three-integer-sum/submission-0.py) | Medium |
+| # | Problem | Solution |  | Difficulty |
+|---|---------|----------|--|------------|
+| 10 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./Data%20Structures%20%26%20Algorithms/is-palindrome/submission-0.py) | | Easy |
+| 11 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](././Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/submission-0.py) | | Medium |
+| 12 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./Data%20Structures%20%26%20Algorithms/three-integer-sum/submission-0.py) | | Medium |
 | 13 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution1](./Data%20Structures%20%26%20Algorithms/max-water-container/submission-0.py) | [Solution2](./Data%20Structures%20%26%20Algorithms/max-water-container/submission-1.py) | Medium |
-| 14 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./Data%20Structures%20%26%20Algorithms/submission-0.py) | Hard |
+| 14 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./Data%20Structures%20%26%20Algorithms/submission-0.py) | | Hard |
 
 ### 3. Sliding Window
 | # | Problem | Solution | Difficulty |
