@@ -25,11 +25,11 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 ### 2. Two Pointers
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
-| 10 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./path-to-auto-sync-file/valid-palindrome.py) | Easy |
-| 11 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./path-to-auto-sync-file/two-sum-ii.py) | Medium |
-| 12 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./path-to-auto-sync-file/3sum.py) | Medium |
-| 13 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](./path-to-auto-sync-file/container-with-most-water.py) | Medium |
-| 14 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./path-to-auto-sync-file/trapping-rain-water.py) | Hard |
+| 10 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./Data%20Structures%20%26%20Algorithms/is-palindrome/submission-0.py) | Easy |
+| 11 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](././Data%20Structures%20%26%20Algorithms/is-palindrome/submission-0.py) | Medium |
+| 12 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./Data%20Structures%20%26%20Algorithms/) | Medium |
+| 13 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](./Data%20Structures%20%26%20Algorithms/) | Medium |
+| 14 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./Data%20Structures%20%26%20Algorithms/) | Hard |
 
 ### 3. Sliding Window
 | # | Problem | Solution | Difficulty |
