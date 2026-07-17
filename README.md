@@ -3,7 +3,7 @@
 My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, automatically synced from NeetCode platform.
 
 ## 📊 Progress
-- Total Solved: **13/150**
+- Total Solved: **17/150**
 
 ---
 
@@ -34,11 +34,11 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 ### 3. Sliding Window
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
-| 15 | [Best Time to Buy/Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./path-to-auto-sync-file/best-time-to-buy-sell-stock.py) | Easy |
-| 16 | [Longest Substring Without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./path-to-auto-sync-file/longest-substring-without-repeating.py) | Medium |
-| 17 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](./path-to-auto-sync-file/longest-repeating-character-replacement.py) | Medium |
-| 18 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Solution](./path-to-auto-sync-file/permutation-in-string.py) | Medium |
-| 19 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](./path-to-auto-sync-file/minimum-window-substring.py) | Hard |
+| 15 | [Best Time to Buy/Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./Data%20Structures%20%26%20Algorithms/buy-and-sell-crypto/submission-0.py) | Easy |
+| 16 | [Longest Substring Without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./Data%20Structures%20%26%20Algorithms/longest-substring-without-duplicates/submission-0.py) | Medium |
+| 17 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](./Data%20Structures%20%26%20Algorithms/longest-repeating-substring-with-replacement/submission-0.py) | Medium |
+| 18 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Solution](./Data%20Structures%20%26%20Algorithms/permutation-string/submission-0.py) | Medium |
+| 19 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](./path-to-auto-sync-file/minimum-window-substring.p) | Hard |
 | 20 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./path-to-auto-sync-file/sliding-window-maximum.py) | Hard |
 
 ### 4. Stack
