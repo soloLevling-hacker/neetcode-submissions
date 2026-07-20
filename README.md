@@ -3,7 +3,7 @@
 My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, automatically synced from NeetCode platform.
 
 ## 📊 Progress
-- Total Solved: **21/150**
+- Total Solved: **22/150**
 
 ---
 
@@ -48,19 +48,19 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 | 22 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](./Data%20Structures%20%26%20Algorithms/minimum-stack/submission-0.py) | Medium |
 | 23 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](./Data%20Structures%20%26%20Algorithms/evaluate-reverse-polish-notation/submission-1.py) | Medium |
 | 24 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](./Data%20Structures%20%26%20Algorithms/daily-temperatures/submission-0.py) | Medium |
-| 25 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [Solution](./path-to-auto-sync-file/car-fleet.py) | Medium |
+| 25 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [Solution](./Data%20Structures%20%26%20Algorithms/car-fleet/submission-0.py) | Medium |
 | 26 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](./path-to-auto-sync-file/largest-rectangle-in-histogram.py) | Hard |
 
 ### 5. Binary Search
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
-| 28 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](./path-to-auto-sync-file/binary-search.py) | Easy |
-| 29 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./path-to-auto-sync-file/search-2d-matrix.py) | Medium |
-| 30 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Solution](./path-to-auto-sync-file/koko-eating-bananas.py) | Medium |
-| 31 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./path-to-auto-sync-file/search-in-rotated-sorted-array.py) | Medium |
-| 32 | [Find Minimum in Rotated Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./path-to-auto-sync-file/find-minimum-in-rotated-sorted-array.py) | Medium |
-| 33 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](./path-to-auto-sync-file/time-based-key-value-store.py) | Medium |
-| 34 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](./path-to-auto-sync-file/median-of-two-sorted-arrays.py) | Hard |
+| 27 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](./path-to-auto-sync-file/binary-search.py) | Easy |
+| 28 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./path-to-auto-sync-file/search-2d-matrix.py) | Medium |
+| 29 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Solution](./path-to-auto-sync-file/koko-eating-bananas.py) | Medium |
+| 30 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./path-to-auto-sync-file/search-in-rotated-sorted-array.py) | Medium |
+| 31 | [Find Minimum in Rotated Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./path-to-auto-sync-file/find-minimum-in-rotated-sorted-array.py) | Medium |
+| 32 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](./path-to-auto-sync-file/time-based-key-value-store.py) | Medium |
+| 33 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](./path-to-auto-sync-file/median-of-two-sorted-arrays.py) | Hard |
 
 ### 6. Linked List
 | # | Problem | Solution | Difficulty |
