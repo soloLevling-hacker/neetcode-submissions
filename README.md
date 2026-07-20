@@ -3,7 +3,7 @@
 My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, automatically synced from NeetCode platform.
 
 ## 📊 Progress
-- Total Solved: **17/150**
+- Total Solved: **21/150**
 
 ---
 
@@ -44,13 +44,12 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 ### 4. Stack
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
-| 21 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./path-to-auto-sync-file/valid-parentheses.py) | Easy |
-| 22 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](./path-to-auto-sync-file/min-stack.py) | Medium |
-| 23 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](./path-to-auto-sync-file/evaluate-reverse-polish-notation.py) | Medium |
-| 24 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](./path-to-auto-sync-file/generate-parentheses.py) | Medium |
-| 25 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](./path-to-auto-sync-file/daily-temperatures.py) | Medium |
-| 26 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [Solution](./path-to-auto-sync-file/car-fleet.py) | Medium |
-| 27 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](./path-to-auto-sync-file/largest-rectangle-in-histogram.py) | Hard |
+| 21 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./Data%20Structures%20%26%20Algorithms/validate-parentheses/submission-1.py) | Easy |
+| 22 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](./Data%20Structures%20%26%20Algorithms/minimum-stack/submission-0.py) | Medium |
+| 23 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](./Data%20Structures%20%26%20Algorithms/evaluate-reverse-polish-notation/submission-1.py) | Medium |
+| 24 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](./Data%20Structures%20%26%20Algorithms/daily-temperatures/submission-0.py) | Medium |
+| 25 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [Solution](./path-to-auto-sync-file/car-fleet.py) | Medium |
+| 26 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](./path-to-auto-sync-file/largest-rectangle-in-histogram.py) | Hard |
 
 ### 5. Binary Search
 | # | Problem | Solution | Difficulty |
