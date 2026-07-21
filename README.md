@@ -57,24 +57,24 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 | 27 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](./Data%20Structures%20%26%20Algorithms/binary-search/submission-0.py) | Easy |
 | 28 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./Data%20Structures%20%26%20Algorithms/search-2d-matrix/submission-0.py) | Medium |
 | 29 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Solution](./Data%20Structures%20%26%20Algorithms/eating-bananas/submission-0.py) | Medium |
-| 30 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./Data%20Structures%20%26%20Algorithms/find-target-in-rotated-sorted-array/submission-4.py) | Medium |
-| 31 | [Find Minimum in Rotated Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./Data%20Structures%20%26%20Algorithms/find-minimum-in-rotated-sorted-array/submission-0.py) | Medium |
+| 30 | [Find Minimum in Rotated Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./Data%20Structures%20%26%20Algorithms/find-minimum-in-rotated-sorted-array/submission-0.py) | Medium |
+| 31 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./Data%20Structures%20%26%20Algorithms/find-target-in-rotated-sorted-array/submission-4.py) | Medium |
 | 32 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](./Data%20Structures%20%26%20Algorithms/time-based-key-value-store/submission-0.py) | Medium |
 | 33 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](./path-to-auto-sync-file/median-of-two-sorted-arrays.py) | Hard |
 
 ### 6. Linked List
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
-| 35 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./path-to-auto-sync-file/reverse-linked-list.py) | Easy |
-| 36 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./path-to-auto-sync-file/merge-two-sorted-lists.py) | Easy |
-| 37 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./path-to-auto-sync-file/linked-list-cycle.py) | Easy |
-| 38 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Solution](./path-to-auto-sync-file/reorder-list.py) | Medium |
-| 39 | [Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./path-to-auto-sync-file/remove-nth-node-from-end.py) | Medium |
-| 40 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./path-to-auto-sync-file/copy-list-with-random-pointer.py) | Medium |
-| 41 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](./path-to-auto-sync-file/add-two-numbers.py) | Medium |
-| 42 | [Find Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./path-to-auto-sync-file/find-duplicate-number.py) | Medium |
-| 43 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution](./path-to-auto-sync-file/lru-cache.py) | Medium |
-| 44 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./path-to-auto-sync-file/merge-k-sorted-lists.py) | Hard |
+| 34 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./path-to-auto-sync-file/reverse-linked-list.py) | Easy |
+| 35 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./path-to-auto-sync-file/merge-two-sorted-lists.py) | Easy |
+| 36 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./path-to-auto-sync-file/linked-list-cycle.py) | Easy |
+| 37 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Solution](./path-to-auto-sync-file/reorder-list.py) | Medium |
+| 38 | [Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./path-to-auto-sync-file/remove-nth-node-from-end.py) | Medium |
+| 39 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./path-to-auto-sync-file/copy-list-with-random-pointer.py) | Medium |
+| 40 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](./path-to-auto-sync-file/add-two-numbers.py) | Medium |
+| 41 | [Find Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./path-to-auto-sync-file/find-duplicate-number.py) | Medium |
+| 42 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution](./path-to-auto-sync-file/lru-cache.py) | Medium |
+| 43 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./path-to-auto-sync-file/merge-k-sorted-lists.py) | Hard |
 
 ### 8. Trees
 | # | Problem | Solution | Difficulty |
