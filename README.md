@@ -3,7 +3,7 @@
 My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, automatically synced from NeetCode platform.
 
 ## 📊 Progress
-- Total Solved: **28/150**
+- Total Solved: **32/150**
 
 ---
 
@@ -68,10 +68,10 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 | 34 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./Data%20Structures%20%26%20Algorithms/reverse-a-linked-list/submission-1.py) | Easy |
 | 35 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./Data%20Structures%20%26%20Algorithms/merge-two-sorted-linked-lists/submission-0.py) | Easy |
 | 36 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./Data%20Structures%20%26%20Algorithms/linked-list-cycle-detection/submission-0.py) | Easy |
-| 37 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Solution](./path-to-auto-sync-file/reorder-list.py) | Medium |
-| 38 | [Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./path-to-auto-sync-file/remove-nth-node-from-end.py) | Medium |
-| 39 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./path-to-auto-sync-file/copy-list-with-random-pointer.py) | Medium |
-| 40 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](./path-to-auto-sync-file/add-two-numbers.py) | Medium |
+| 37 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Solution](./Data%20Structures%20%26%20Algorithms/reorder-linked-list/submission-0.py) | Medium |
+| 38 | [Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./Data%20Structures%20%26%20Algorithms/remove-node-from-end-of-linked-list/submission-0.py) | Medium |
+| 39 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./Data%20Structures%20%26%20Algorithms/copy-linked-list-with-random-pointer/submission-1.py) | Medium |
+| 40 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](./Data%20Structures%20%26%20Algorithms/add-two-numbers/submission-0.py) | Medium |
 | 41 | [Find Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./path-to-auto-sync-file/find-duplicate-number.py) | Medium |
 | 42 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution](./path-to-auto-sync-file/lru-cache.py) | Medium |
 | 43 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./path-to-auto-sync-file/merge-k-sorted-lists.py) | Hard |
