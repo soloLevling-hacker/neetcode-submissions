@@ -52,11 +52,18 @@ At the end of this first loop, we have created all the new nodes, but they are n
 
 Original List:   A(original) -> B(original) -> C(original)
 
-Dictionary: {
-   A(original) : A'(brand new copy),
-   B(original) : B'(brand new copy),
-   C(original) : C'(brand new copy)
+old_to_new = {
+    0x1000 (Node1): 0x5000 (Node1', val=1, next=None, random=None),
+    0x2000 (Node2): 0x6000 (Node2', val=2, next=None, random=None),
+    0x3000 (Node3): 0x7000 (Node3', val=3, next=None, random=None)
 }
+
+Key Points to Remember:
+Keys are original nodes - Their addresses (like 0x1000, 0x2000, 0x3000)
+Values are copy nodes - Brand new nodes at different addresses (0x5000, 0x6000, 0x7000)
+Copy nodes are "dangling" - Their .next and .random are still None
+No connections between copies yet - They exist as isolated nodes in memory
+The dictionary maps every original node to its corresponding copy
 
 Part 5: The Second while Loop (Wiring the Connections)
 
