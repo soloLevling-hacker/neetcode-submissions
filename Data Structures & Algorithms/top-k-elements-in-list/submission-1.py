@@ -76,8 +76,8 @@ class Solution:
             bucket[freq].append(num)
          
         res = []
-        for i in range(len(bucket)-1, -1, -1):
-            res.extend(bucket[i])
-            if len(res) >= k:
-                return res[:k]
+        for i in range(len(bucket)):
+            if i >= k:
+                res.extend(bucket[i])
+        return res
 
