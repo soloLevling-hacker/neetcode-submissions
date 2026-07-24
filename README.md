@@ -16,7 +16,7 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 | 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./Data%20Structures%20%26%20Algorithms/is-anagram/submission-0.py) | Easy |
 | 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./Data%20Structures%20%26%20Algorithms/two-integer-sum/submission-1.py) | Easy |
 | 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./Data%20Structures%20%26%20Algorithms/anagram-groups/submission-0.py) | Medium |
-| 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/submission-0.py) | Medium |
+| 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/submission-1.py) | Medium |
 | 6 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [Solution](./Data%20Structures%20%26%20Algorithms/string-encode-and-decode/submission-0.py) | Medium |
 | 7 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self/submission-0.py) | Medium |
 | 8 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./Data%20Structures%20%26%20Algorithms/valid-sudoku/submission-0.py) | Medium |
